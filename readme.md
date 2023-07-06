@@ -15,8 +15,8 @@ instantiate
 ```
    (backspace to exit Pkg REPL)
    ```
-   include(“calcs.jl”)
-   include(“plots.jl”)
+   include(“calc.jl”)
+   include(“plot.jl”)
    ```
 
 See ``src/MΦ.jl`` for the majority of calculation details.
